@@ -2,3 +2,6 @@ pandas
 bs4
 itables
 voila
+voila-material
+ipykernel
+
